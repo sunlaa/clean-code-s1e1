@@ -37,14 +37,14 @@
 }
 .incomplete,
 .completed {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 li {
-  list-style:none;
+  list-style: none;
 }
 input,button{
-  outline:none;
+  outline: none;
 }
 .action-button {
   background: none;
@@ -137,14 +137,14 @@ li > * {
 
 /* Edit Task */
 .list-item .input-text {
-  display:none
+  display: none
 }
 
 .incomplete__edit-mode .input-text {
-  display:inline-block;
-  width:22px
+  display: inline-block;
+  width: 22px
 }
 
 .incomplete__edit-mode .list-label {
-  display:none;
+  display: none;
 }
